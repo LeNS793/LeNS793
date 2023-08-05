@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Alexander Foshin
 
 📫 How to reach me: [![](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg){width="20" height="20"}](https://t.me/alexander_foshin)
-![{width=20px height=20px}](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg)
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg" width="150" height="280">
+
 ⚡ Fun fact: Why LeNS? He is my favorite character from my first computeg game - GTA Vice City
 
 <!--
