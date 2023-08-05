@@ -10,8 +10,8 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" width="120" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40">
-</div>
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" width="120" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" width="120" height="40"> 
+
 
 <!--
 **LeNS793/LeNS793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
