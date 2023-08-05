@@ -3,7 +3,7 @@
 ## I'm Data Analyst
 - 🌱 I’m currently learning Power Query, Power BI and some ML
 - 🥅 2023 Goals: try myself in Kaggle ML competition
-- ⚡ Fun fact: why LeNS? This is my favorite character from my first computer game - GTA Vice City
+- ⚡ Fun fact: why LeNS? This is my favorite character from my first computer game - GTA: Vice City
 
 ### Connect with me:
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg" width="40" height="40">](https://t.me/alexander_foshin)
