@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Alexander Foshin
 
-📫 How to reach me: [https://cdn.freelance.ru/images/att/1840377_900_600.png](https://t.me/alexander_foshin)
-⚡ Fun fact: Why LeNS? from my first computeg game - GTA Vice city/
+📫 How to reach me: [![https://cdn.freelance.ru/images/att/1840377_900_600.png]](https://t.me/alexander_foshin)
+
+⚡ Fun fact: Why LeNS? He is my favorite character from my first computeg game - GTA Vice City
 
 <!--
 **LeNS793/LeNS793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
