@@ -10,9 +10,9 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" width="120" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/git.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" width="120" height="40">
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" width="120" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/T/teradata-logo-63C9DF7F82-seeklogo.com.png" width="160" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/git.svg" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" width="120" height="40">
 
-<img src="https://seeklogo.com/images/T/teradata-logo-63C9DF7F82-seeklogo.com.png" width="160" height="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 <!--
